@@ -1,1 +1,1 @@
-Snake's user endpoint HERE
+Snake's post endpoint HERE
